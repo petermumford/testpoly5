@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: one
+  categorisable: one
+  categorisable_type: Categorisable
+
+two:
+  category: two
+  categorisable: two
+  categorisable_type: Categorisable
